@@ -1,0 +1,32 @@
+.jumbo{
+    background-color: #1abc9c;
+    height: 500px;
+    color: white;
+}
+.align-items-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.avatar{
+    height: 15rem;
+    width: auto;
+}
+.column{
+    flex-direction: column;
+}
+.img{
+    width: 100%;
+    height: auto;
+}
+.about{
+    background-color: #1abc9c;
+    height: 400px;
+    color: white;
+}
+.my_row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
