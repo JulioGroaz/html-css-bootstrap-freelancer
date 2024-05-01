@@ -38,17 +38,19 @@
     justify-content: flex-start;
     width: 100%;
 }
-.color_red{
-    background-color: red;
-    height: 5rem;
+.border-bottom{
+    border-bottom: 1px solid grey;
+    height: 3rem;
     width: 100%;
 
 }
 .loghetti-footer{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
+    width: 100%;
+    
 }
 .footer_top{
     background-color: #3a546d;
@@ -86,4 +88,14 @@
 .fa-star{
     padding: 1rem;
     font-size: 1.5rem;
+}
+.color_green{
+    background-color: #1abc9c;
+}
+.my_rounded{
+    height: 2rem;
+    width: 2rem;
+    border: 1px solid white;
+    border-radius: 50%;
+    
 }
