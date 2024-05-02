@@ -55,6 +55,7 @@
 .footer_top{
     background-color: #3a546d;
     color: #f6f7f7;
+    height: auto;
 }
 .width_100{
     width: 100%;
